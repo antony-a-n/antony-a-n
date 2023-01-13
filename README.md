@@ -2,4 +2,5 @@ Hello Geeks :wave:,
 
 Welcome to my Github :man_technologist:.
 
-“Whatever you are, be a good one.” ―Abraham Lincoln
+
+“Chew off a little every day, because it’s hard to swallow a whole pie at once.”― Richelle E. Goodrich
