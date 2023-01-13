@@ -1,6 +1,6 @@
 # Hello Geeks :wave:,
 
-Welcome to my Github :man_technologist:.
+Welcome to my Github :man_technologist:
 
 ![](https://komarev.com/ghpvc/?username=antony-a-n)
 
